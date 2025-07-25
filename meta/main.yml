@@ -1,0 +1,13 @@
+---
+galaxy_info:
+  author: Muhammad Essam
+  description: Install Docker agent on Ubuntu systems
+  license: MIT
+  min_ansible_version: 2.9
+  platforms:
+    - name: Ubuntu
+      versions:
+        - focal
+        - jammy
+
+dependencies: []
