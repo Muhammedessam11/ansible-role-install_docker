@@ -1,6 +1,7 @@
 ---
 galaxy_info:
   author: Muhammad Essam
+  role_name: install_docker
   description: Install Docker agent on Ubuntu systems
   license: MIT
   min_ansible_version: 2.9
